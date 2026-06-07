@@ -1,0 +1,2 @@
+orders,unique_customers,sellers,products,categories,total_revenue,total_freight,avg_order_value,avg_review_score,avg_delivery_days,late_delivery_rate
+99441,96096,3095,32951,73,13591643.7,2251909.54,137.75407637889444,4.0867934152875325,12.093604229294082,0.0677252845208234
